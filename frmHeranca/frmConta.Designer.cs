@@ -31,19 +31,19 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmConta));
             this.btnSacar = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.txtDepositar = new System.Windows.Forms.TextBox();
+            this.txtTransferir = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.lblExtrato = new System.Windows.Forms.ListBox();
             this.lblDeposito = new System.Windows.Forms.Label();
             this.lblValor = new System.Windows.Forms.Label();
             this.lblTransferir = new System.Windows.Forms.Label();
             this.extrato = new System.Windows.Forms.Label();
             this.btnDepositar = new System.Windows.Forms.Button();
             this.btnTransferir = new System.Windows.Forms.Button();
-            this.lblExtrato = new System.Windows.Forms.ListBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.txtTransferir = new System.Windows.Forms.TextBox();
-            this.txtDepositar = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,7 +53,7 @@
             this.btnSacar.Location = new System.Drawing.Point(26, 343);
             this.btnSacar.Name = "btnSacar";
             this.btnSacar.Size = new System.Drawing.Size(170, 72);
-            this.btnSacar.TabIndex = 0;
+            this.btnSacar.TabIndex = 7;
             this.btnSacar.Text = "Sacar";
             this.btnSacar.UseVisualStyleBackColor = true;
             this.btnSacar.Click += new System.EventHandler(this.btnConta_Click);
@@ -70,9 +70,61 @@
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(798, 325);
-            this.groupBox1.TabIndex = 1;
+            this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Informações da conta";
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(259, 134);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(145, 24);
+            this.radioButton2.TabIndex = 5;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "Conta poupança";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(259, 73);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(141, 24);
+            this.radioButton1.TabIndex = 4;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "Conta corresnte";
+            this.radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // txtDepositar
+            // 
+            this.txtDepositar.Location = new System.Drawing.Point(29, 180);
+            this.txtDepositar.Name = "txtDepositar";
+            this.txtDepositar.Size = new System.Drawing.Size(155, 26);
+            this.txtDepositar.TabIndex = 3;
+            // 
+            // txtTransferir
+            // 
+            this.txtTransferir.Location = new System.Drawing.Point(29, 284);
+            this.txtTransferir.Name = "txtTransferir";
+            this.txtTransferir.Size = new System.Drawing.Size(155, 26);
+            this.txtTransferir.TabIndex = 3;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(29, 73);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(155, 26);
+            this.textBox1.TabIndex = 1;
+            // 
+            // lblExtrato
+            // 
+            this.lblExtrato.FormattingEnabled = true;
+            this.lblExtrato.ItemHeight = 20;
+            this.lblExtrato.Location = new System.Drawing.Point(449, 84);
+            this.lblExtrato.Name = "lblExtrato";
+            this.lblExtrato.Size = new System.Drawing.Size(271, 184);
+            this.lblExtrato.TabIndex = 6;
             // 
             // lblDeposito
             // 
@@ -120,7 +172,7 @@
             this.btnDepositar.Location = new System.Drawing.Point(211, 343);
             this.btnDepositar.Name = "btnDepositar";
             this.btnDepositar.Size = new System.Drawing.Size(174, 72);
-            this.btnDepositar.TabIndex = 6;
+            this.btnDepositar.TabIndex = 8;
             this.btnDepositar.Text = "Despositar";
             this.btnDepositar.UseVisualStyleBackColor = true;
             this.btnDepositar.Click += new System.EventHandler(this.btnDepositar_Click);
@@ -131,40 +183,10 @@
             this.btnTransferir.Location = new System.Drawing.Point(599, 343);
             this.btnTransferir.Name = "btnTransferir";
             this.btnTransferir.Size = new System.Drawing.Size(174, 72);
-            this.btnTransferir.TabIndex = 7;
+            this.btnTransferir.TabIndex = 10;
             this.btnTransferir.Text = "Transferir";
             this.btnTransferir.UseVisualStyleBackColor = true;
             this.btnTransferir.Click += new System.EventHandler(this.btnTransferir_Click);
-            // 
-            // lblExtrato
-            // 
-            this.lblExtrato.FormattingEnabled = true;
-            this.lblExtrato.ItemHeight = 20;
-            this.lblExtrato.Location = new System.Drawing.Point(449, 84);
-            this.lblExtrato.Name = "lblExtrato";
-            this.lblExtrato.Size = new System.Drawing.Size(271, 184);
-            this.lblExtrato.TabIndex = 0;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(29, 73);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(155, 26);
-            this.textBox1.TabIndex = 1;
-            // 
-            // txtTransferir
-            // 
-            this.txtTransferir.Location = new System.Drawing.Point(29, 284);
-            this.txtTransferir.Name = "txtTransferir";
-            this.txtTransferir.Size = new System.Drawing.Size(155, 26);
-            this.txtTransferir.TabIndex = 2;
-            // 
-            // txtDepositar
-            // 
-            this.txtDepositar.Location = new System.Drawing.Point(29, 180);
-            this.txtDepositar.Name = "txtDepositar";
-            this.txtDepositar.Size = new System.Drawing.Size(155, 26);
-            this.txtDepositar.TabIndex = 3;
             // 
             // button1
             // 
@@ -172,32 +194,10 @@
             this.button1.Location = new System.Drawing.Point(409, 343);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(174, 72);
-            this.button1.TabIndex = 8;
+            this.button1.TabIndex = 9;
             this.button1.Text = "Mostra Saldo";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.frmConta_Load);
-            // 
-            // radioButton1
-            // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(259, 73);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(141, 24);
-            this.radioButton1.TabIndex = 4;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Conta corresnte";
-            this.radioButton1.UseVisualStyleBackColor = true;
-            // 
-            // radioButton2
-            // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(259, 134);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(145, 24);
-            this.radioButton2.TabIndex = 5;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Conta poupança";
-            this.radioButton2.UseVisualStyleBackColor = true;
             // 
             // frmConta
             // 

@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Drawing.Text;
 using System.Linq;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -20,7 +21,22 @@ namespace frmHeranca
 
         private void frmConta_Load(object sender, EventArgs e)
         {
+            if (radioButton1.Checked)
+            {
+                private void radioButton2_CheckedChanged(object sender, EventArgs e)
+                {
+                    double valor, porc, reso;
 
+                    valor = Convert.ToDouble(txtValor.Text);
+                    porc = Convert.ToDouble(txtPorcentagem.Text);
+
+                    poupanca cp = new poupanca();
+
+                    resp = cp.calculoRendimento(porc, valor);
+
+                    ltbExtrato.Items.Add("valor a receber" + resp);
+                }
+            }
         }
 
         Conta conta = new Conta();
@@ -59,6 +75,8 @@ namespace frmHeranca
             Poupanca poupanca = new poupanca();
             poupanca.
         }
+
+        
     }
     }
 

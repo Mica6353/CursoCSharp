@@ -16,7 +16,7 @@ namespace frmHeranca
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmConta());
+            Application.Run(new frmHeranca());
         }
     }
 }
