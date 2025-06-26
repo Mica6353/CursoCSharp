@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|c:\\users\\mirella.gsouza1\\documents\\visual studio 2022\\empresaclivre\\gerenciar pessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|solutionrelative:gerenciar pessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|c:\\users\\mirella.gsouza1\\documents\\visual studio 2022\\empresaclivre\\gerenciar pessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|solutionrelative:gerenciar pessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|c:\\users\\mirella.gsouza1\\documents\\visual studio 2022\\empresaclivre\\gerenciar pessoas\\frmcadpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|solutionrelative:gerenciar pessoas\\frmcadpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|c:\\users\\mirella.gsouza1\\documents\\visual studio 2022\\empresaclivre\\gerenciar pessoas\\frmcadpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|solutionrelative:gerenciar pessoas\\frmcadpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|c:\\users\\mirella.gsouza1\\documents\\visual studio 2022\\empresaclivre\\gerenciar pessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|solutionrelative:gerenciar pessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|c:\\users\\mirella.gsouza1\\documents\\visual studio 2022\\empresaclivre\\gerenciar pessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0585C24-1131-4573-AA1D-FC606B803A43}|Gerenciar Pessoas\\Gerenciar Pessoas.csproj|solutionrelative:gerenciar pessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBuscaPessoas.cs",
+              "DocumentMoniker": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\frmBuscaPessoas.cs",
+              "RelativeDocumentMoniker": "Gerenciar Pessoas\\frmBuscaPessoas.cs",
+              "ToolTip": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\frmBuscaPessoas.cs",
+              "RelativeToolTip": "Gerenciar Pessoas\\frmBuscaPessoas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:46:23.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBuscaPessoas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\frmBuscaPessoas.cs",
+              "RelativeDocumentMoniker": "Gerenciar Pessoas\\frmBuscaPessoas.cs",
+              "ToolTip": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\frmBuscaPessoas.cs [Design]",
+              "RelativeToolTip": "Gerenciar Pessoas\\frmBuscaPessoas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:19:11.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCadPessoa.cs",
+              "DocumentMoniker": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\frmCadPessoa.cs",
+              "RelativeDocumentMoniker": "Gerenciar Pessoas\\frmCadPessoa.cs",
+              "ToolTip": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\frmCadPessoa.cs",
+              "RelativeToolTip": "Gerenciar Pessoas\\frmCadPessoa.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:21:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCadPessoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\frmCadPessoa.cs",
+              "RelativeDocumentMoniker": "Gerenciar Pessoas\\frmCadPessoa.cs",
+              "ToolTip": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\frmCadPessoa.cs [Design]",
+              "RelativeToolTip": "Gerenciar Pessoas\\frmCadPessoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:18:42.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Gerenciar Pessoas\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\Pessoa.cs",
+              "RelativeToolTip": "Gerenciar Pessoas\\Pessoa.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:14:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\Program.cs",
+              "RelativeDocumentMoniker": "Gerenciar Pessoas\\Program.cs",
+              "ToolTip": "C:\\Users\\mirella.gsouza1\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Gerenciar Pessoas\\Program.cs",
+              "RelativeToolTip": "Gerenciar Pessoas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:13:02.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

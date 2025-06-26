@@ -1,0 +1,11 @@
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\bin\Debug\Gerenciar Pessoas.exe.config
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\bin\Debug\Gerenciar Pessoas.exe
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\bin\Debug\Gerenciar Pessoas.pdb
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\obj\Debug\Gerenciar Pessoas.csproj.AssemblyReference.cache
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\obj\Debug\Gerenciar_Pessoas.frmCadPessoa.resources
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\obj\Debug\Gerenciar_Pessoas.Properties.Resources.resources
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\obj\Debug\Gerenciar Pessoas.csproj.GenerateResource.cache
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\obj\Debug\Gerenciar Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\obj\Debug\Gerenciar Pessoas.exe
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\obj\Debug\Gerenciar Pessoas.pdb
+C:\Users\mirella.gsouza1\Documents\Visual Studio 2022\EmpresaCLivre\Gerenciar Pessoas\obj\Debug\Gerenciar_Pessoas.frmBuscaPessoas.resources
